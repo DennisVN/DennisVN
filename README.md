@@ -1,16 +1,27 @@
-### Hi there 👋
+# `DENNIS VN`
+<sub> aka  `BEAUCOUPDARGENT`</sub>
 
-<!--
-**DennisVN/DennisVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me :
+<br>
+- Proud father of Billie 💖
+- Currently getting educated as Jr. Backend Developer
+- Completed WebDevelopment course at BeCode ✅
+- Road to full stack ! 
+- Currently learning C#, Azure and SQL
 
-Here are some ideas to get you started:
+Stack : 
+-------
+C#     ||  JS(X)  ||  TSX(X)  ||  SQL  ||  GIT  || 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Knowledge :
+----------
+React  ||  Microsoft Azure  ||  SSMS    ||  Visual Studio  ||
+
+Interests / Useless Facts :
+-------
+- Beatmaking in Ableton ( Live Suite 9 ) 
+- Minecraft Platinum Trophy
+- DOOM 2016 Platinum Trophy
+- Salmon Pink 
+
+![SICC DOOM JIF](https://media.gifs.nl/doom-gifs-AGM5pd.gif)
