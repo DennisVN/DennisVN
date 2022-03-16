@@ -6,7 +6,7 @@
 About Me :
 <br>
 - Proud father of Billie 💖
-- Currently getting educated as Jr. Backend Developer
+- Currently getting trained as Jr. Backend Developer ( Dev Cloud Software )
 - Completed WebDevelopment course at BeCode ✅
 - Road to full stack ! 
 - Currently learning C#, Azure and SQL
