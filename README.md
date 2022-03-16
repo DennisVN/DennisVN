@@ -1,5 +1,7 @@
 # `DENNIS VN`
-<sub> aka  `BEAUCOUPDARGENT`</sub>
+##### aka  `BEAUCOUPDARGENT`
+
+
 
 About Me :
 <br>
