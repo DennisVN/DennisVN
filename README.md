@@ -6,7 +6,7 @@
 About Me :
 <br>
 - Proud father of Billie 💖
-- Currently getting trained as Jr. Backend Developer ( Dev Cloud Software )
+- Currently working in e-commerce ( Dries Van Noten )
 - Completed WebDevelopment course at BeCode ✅
 - Road to full stack ! 
 - Currently learning C#, Azure and SQL
